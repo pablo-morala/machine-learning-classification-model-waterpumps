@@ -1,2 +1,8 @@
-# machine-learning-classification-model-waterpumps
-Classification ML model : Pump it Up: Data Mining the Water Table
+# ML Classification Model for Competition on DrivenData
+Hello! This repository contains a Machine Learning classification model, entirely developed by me. This model was created to participate in a competition organized by DrivenData, where the goal was to predict the condition of water pumps in a village in Tanzania. The task was to classify whether the pumps were in perfect condition, needed repair, or were in poor condition. This is the link for said competition, with instructions, datasets, information about the variables, leaderboard, etc... https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/.
+
+The code represents the different stages required to build a predictive model, including data loading, preprocessing, cleaning, training, validation, and prediction. I achieved an accuracy of 0.8, which was not far of from the leaders!
+
+¡Hola! Este repositorio contiene un modelo de clasificación de Machine Learning, desarrollado íntegramente por mí. Este modelo fue creado para participar en una competición organizada por DrivenData, cuyo objetivo era predecir el estado de las bombas de agua en un pueblo de Tanzania. La tarea consistía en clasificar si las bombas estaban en perfecto estado, necesitaban reparación o estaban en mal estado. Este es el enlace de dicha competición, con instrucciones, conjuntos de datos, información sobre las variables, tabla de posiciones, etc.: https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/.
+
+El código representa las diferentes fases necesarias para construir un modelo predictivo, incluyendo carga de datos, preprocesamiento, limpieza, entrenamiento, validación y predicción. Obtube un accuracy de 0.8, que no estaba lejos de los líderes!
